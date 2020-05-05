@@ -1,0 +1,63 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'lato', sans-serif;
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+
+}
+
+
+.container {
+	width: 60%;
+	margin: 20% auto;
+}
+
+.login-sectino{
+	background: #00ffff8c;
+	padding: 25px;
+
+}
+
+.login-sectino img {
+	width: 150px;
+	margin: 0 auto;
+	display: block;
+
+}
+
+.login-sectino h2{
+	text-align: center;
+	color: 	#FFFFFF;
+	font-size: 34px;
+	text-transform: uppercase;
+	margin: 10px 0px;
+
+}
+
+.form-control {
+	width: 97%;
+	height: 28px;
+	padding: 5px;
+	margin-bottom: 10px;
+
+}
+
+.btn {
+	margin: 0 auto;
+	display: block;
+	background: darkred;
+	color: none;
+	padding: 10px 32px;
+	text-transform: uppercase; 
+	
+}
+
+.btn:hover{
+	box-shadow: 2px 4px 6px #ffff;
+	cursor: pointer;
+}
